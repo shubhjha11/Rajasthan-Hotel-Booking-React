@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+View deployed site on heroku : https://hotel-rooms-react.herokuapp.com/
 
 ## Available Scripts
 
